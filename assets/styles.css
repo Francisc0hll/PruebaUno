@@ -1,0 +1,11 @@
+.pieDePagina{
+    background-color: whitesmoke;
+    color: rgb(18, 18, 241);
+    height: 150px;
+    width: 100%;
+    box-sizing: border-box;
+    position: relative ;
+    bottom: 0;
+    padding: 3px 30px;
+    
+}
