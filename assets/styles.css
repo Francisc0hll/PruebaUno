@@ -9,7 +9,7 @@
     
 }
 .espacio{
-    height: 3rem;
+    height: 3rem
 }
 
 body{
@@ -18,4 +18,19 @@ body{
 
 .margenes{
     margin: 2em 0;
+}
+
+p{
+    font-family: 'Rosario', sans-serif;
+}
+
+h3{
+    font-family: 'Marcellus SC', serif;
+}
+h1{
+    font-family: 'Bowlby One SC', cursive;
+}
+
+.tamañoTexto{
+    font-size: 2rem;
 }
